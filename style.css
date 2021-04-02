@@ -145,7 +145,7 @@ section .sec_img
 {
     height: 550px;
     margin-top: 0px;
-    background-image: url("images/1.jpg");
+    background-image: url("1.jpg");
 }
 .box
 {
@@ -163,7 +163,7 @@ section .sec_img
 {
     height: 650px;
     margin-top: 0px;
-    background-image: url("images/3.jpg");
+    background-image: url("3.jpg");
 }
 .box1
 {
@@ -190,7 +190,7 @@ input
 {
     height: 630px;
     margin-top: 0px;
-    background-image: url("images/4.png");
+    background-image: url("4.png");
 }
 .box2
 {
